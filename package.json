@@ -1,0 +1,25 @@
+{
+  "name": "back-end-ocean",
+  "version": "1.0.0",
+  "description": "projeto relacionado ao curso Backend com Nodejs e Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"teste\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artpedro/back-end-ocean.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "artpedro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artpedro/back-end-ocean/issues"
+  },
+  "homepage": "https://github.com/artpedro/back-end-ocean#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
